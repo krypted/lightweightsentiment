@@ -1,0 +1,6 @@
+[
+    {"text": "I love this button.", "label": "pos"},
+    {"text": "This is an amazing option!", "label": "pos"},
+    {"text": "I do not like this feature", "label": "neg"},
+    {"text": "This document has the wrong fonts", "label": "neg"}
+]
