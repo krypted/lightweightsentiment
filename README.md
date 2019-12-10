@@ -5,6 +5,7 @@ lightweightsentiment is a Lightweight Sentiment Analysis Tool built using python
 It was written to conform to python 2 or 3 and requires the following modules installed (newer versions may work):
 
 nltk==3.4.5
+
 textblob==0.15.3
 
 ## Usage
