@@ -8,6 +8,10 @@ nltk==3.4.5
 
 textblob==0.15.3
 
+To install nltk run:
+
+python -m textblob.download_corpora
+
 ## Usage
 
 python input.py --text "Gosh, I hate this feature"
